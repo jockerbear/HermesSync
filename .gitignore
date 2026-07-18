@@ -1,0 +1,13 @@
+# 日志
+sync.log
+
+# 备份
+Backups/
+.orig
+
+# 本地配置（可能含敏感信息）
+config.json
+
+# 系统文件
+Thumbs.db
+.DS_Store
