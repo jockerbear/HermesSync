@@ -1,9 +1,10 @@
 # 日志
 sync.log
 
-# 备份
+Backup directories
 Backups/
 .orig
+*.orig
 
 # 本地配置（可能含敏感信息）
 config.json
